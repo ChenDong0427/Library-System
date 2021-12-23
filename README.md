@@ -1,5 +1,5 @@
 # CS411b_F21_GroupProject
-This is a group project started by Chen Dong and his teammates for CS 411
+This is a group project started by Chen Dong and his teammates for CS 411, software engineering.
 
 # Project Description:
   This is a Library Management System that is designed for modernising and digitatlising library management. 
