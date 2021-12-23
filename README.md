@@ -16,8 +16,6 @@ This is a group project started by Chen Dong and his teammates for CS 411, softw
 
 # Setting up the software:
   Clone the repository and download the mysql software and import the database from the database folder in this ploject.
-    
-  If there is no connection to the database, please modifie the connection information in the main class, which is around line 61.
-  
+      
   Then add the library in the project structure, the library file/ jar file is in the lib folder, and you should then have everything set up
    
