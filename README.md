@@ -12,7 +12,7 @@ This is a group project started by Chen Dong and his teammates for CS 411, softw
   6. Register borrow
   7. Register return
   
-# Requirements: Java 15, mySql 8.0.27
+# Requirements: Java 15, MySQL 8.0.27
 
 # Setting up the software:
   Clone the repository and download the mysql software and import the database from the database folder in this ploject.
