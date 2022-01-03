@@ -1,4 +1,4 @@
-# CS411b_F21_GroupProject
+# CS411b GroupProject
 This is a group project started by Chen Dong and his teammates for CS 411, software engineering.
 
 # Project Description:
